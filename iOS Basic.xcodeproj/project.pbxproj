@@ -1,0 +1,375 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8407917525B18920002196EF /* Bài 6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8407917425B18920002196EF /* Bài 6.swift */; };
+		8407917825B18AEE002196EF /* Bài 7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8407917725B18AEE002196EF /* Bài 7.swift */; };
+		8407917B25B1B578002196EF /* Bài 8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8407917A25B1B578002196EF /* Bài 8.swift */; };
+		8407917E25B1BE0C002196EF /* Bài 9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8407917D25B1BE0C002196EF /* Bài 9.swift */; };
+		84262A3725AF58AC000B39E8 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84262A3625AF58AC000B39E8 /* main.swift */; };
+		8431F03F25B286BB00BE782C /* Nhập Thông Tin Sinh Viên.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8431F03E25B286BB00BE782C /* Nhập Thông Tin Sinh Viên.swift */; };
+		8431F04225B2C1FE00BE782C /* Nhập số sinh viên trong 1 lớp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8431F04125B2C1FE00BE782C /* Nhập số sinh viên trong 1 lớp.swift */; };
+		8431F04625B2FDD000BE782C /* Nhập tên lớp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8431F04525B2FDD000BE782C /* Nhập tên lớp.swift */; };
+		84AA7BAD25B5562C00C5F2C2 /* Option.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84AA7BAC25B5562C00C5F2C2 /* Option.swift */; };
+		84E8B78425B0618F003E7D19 /* Bài 1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B78325B0618F003E7D19 /* Bài 1.swift */; };
+		84E8B78825B061DB003E7D19 /* Bài 2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B78725B061DB003E7D19 /* Bài 2.swift */; };
+		84E8B78B25B06296003E7D19 /* Bài 3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B78A25B06296003E7D19 /* Bài 3.swift */; };
+		84E8B78E25B062BE003E7D19 /* Bài 4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B78D25B062BE003E7D19 /* Bài 4.swift */; };
+		84E8B79125B062FD003E7D19 /* Bài 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B79025B062FD003E7D19 /* Bài 5.swift */; };
+		84E8B79425B06597003E7D19 /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B79325B06597003E7D19 /* Array.swift */; };
+		84E8B79725B08023003E7D19 /* StrucAndClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B79625B08023003E7D19 /* StrucAndClass.swift */; };
+		84E8B79A25B08981003E7D19 /* Bài 10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B79925B08981003E7D19 /* Bài 10.swift */; };
+		84E8B79D25B0899F003E7D19 /* Sinh Vien.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B79C25B0899F003E7D19 /* Sinh Vien.swift */; };
+		84E8B7A425B08A00003E7D19 /* Lớp học.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E8B7A325B08A00003E7D19 /* Lớp học.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		84262A3125AF58AC000B39E8 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		8407917425B18920002196EF /* Bài 6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 6.swift"; sourceTree = "<group>"; };
+		8407917725B18AEE002196EF /* Bài 7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 7.swift"; sourceTree = "<group>"; };
+		8407917A25B1B578002196EF /* Bài 8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 8.swift"; sourceTree = "<group>"; };
+		8407917D25B1BE0C002196EF /* Bài 9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 9.swift"; sourceTree = "<group>"; };
+		84262A3325AF58AC000B39E8 /* iOS Basic */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "iOS Basic"; sourceTree = BUILT_PRODUCTS_DIR; };
+		84262A3625AF58AC000B39E8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		8431F03E25B286BB00BE782C /* Nhập Thông Tin Sinh Viên.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Nhập Thông Tin Sinh Viên.swift"; sourceTree = "<group>"; };
+		8431F04125B2C1FE00BE782C /* Nhập số sinh viên trong 1 lớp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Nhập số sinh viên trong 1 lớp.swift"; sourceTree = "<group>"; };
+		8431F04525B2FDD000BE782C /* Nhập tên lớp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Nhập tên lớp.swift"; sourceTree = "<group>"; };
+		84AA7BAC25B5562C00C5F2C2 /* Option.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Option.swift; sourceTree = "<group>"; };
+		84E8B78325B0618F003E7D19 /* Bài 1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 1.swift"; sourceTree = "<group>"; };
+		84E8B78725B061DB003E7D19 /* Bài 2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 2.swift"; sourceTree = "<group>"; };
+		84E8B78A25B06296003E7D19 /* Bài 3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 3.swift"; sourceTree = "<group>"; };
+		84E8B78D25B062BE003E7D19 /* Bài 4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 4.swift"; sourceTree = "<group>"; };
+		84E8B79025B062FD003E7D19 /* Bài 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 5.swift"; sourceTree = "<group>"; };
+		84E8B79325B06597003E7D19 /* Array.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
+		84E8B79625B08023003E7D19 /* StrucAndClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrucAndClass.swift; sourceTree = "<group>"; };
+		84E8B79925B08981003E7D19 /* Bài 10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bài 10.swift"; sourceTree = "<group>"; };
+		84E8B79C25B0899F003E7D19 /* Sinh Vien.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Sinh Vien.swift"; sourceTree = "<group>"; };
+		84E8B7A325B08A00003E7D19 /* Lớp học.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Lớp học.swift"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		84262A3025AF58AC000B39E8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		84262A2A25AF58AC000B39E8 = {
+			isa = PBXGroup;
+			children = (
+				84262A3525AF58AC000B39E8 /* iOS Basic */,
+				84262A3425AF58AC000B39E8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		84262A3425AF58AC000B39E8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				84262A3325AF58AC000B39E8 /* iOS Basic */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		84262A3525AF58AC000B39E8 /* iOS Basic */ = {
+			isa = PBXGroup;
+			children = (
+				84262A3625AF58AC000B39E8 /* main.swift */,
+				84E8B78325B0618F003E7D19 /* Bài 1.swift */,
+				84E8B78725B061DB003E7D19 /* Bài 2.swift */,
+				84E8B78A25B06296003E7D19 /* Bài 3.swift */,
+				84E8B78D25B062BE003E7D19 /* Bài 4.swift */,
+				84E8B79025B062FD003E7D19 /* Bài 5.swift */,
+				8407917425B18920002196EF /* Bài 6.swift */,
+				8407917725B18AEE002196EF /* Bài 7.swift */,
+				8407917A25B1B578002196EF /* Bài 8.swift */,
+				8407917D25B1BE0C002196EF /* Bài 9.swift */,
+				84E8B79925B08981003E7D19 /* Bài 10.swift */,
+				8431F04525B2FDD000BE782C /* Nhập tên lớp.swift */,
+				84E8B7A325B08A00003E7D19 /* Lớp học.swift */,
+				84E8B79C25B0899F003E7D19 /* Sinh Vien.swift */,
+				84AA7BAC25B5562C00C5F2C2 /* Option.swift */,
+				84AA7B9F25B517F200C5F2C2 /* Bài 10 */,
+				84AA7BA125B5188C00C5F2C2 /* Struc - Class - Array */,
+			);
+			path = "iOS Basic";
+			sourceTree = "<group>";
+		};
+		84AA7B9F25B517F200C5F2C2 /* Bài 10 */ = {
+			isa = PBXGroup;
+			children = (
+				8431F04125B2C1FE00BE782C /* Nhập số sinh viên trong 1 lớp.swift */,
+				8431F03E25B286BB00BE782C /* Nhập Thông Tin Sinh Viên.swift */,
+			);
+			name = "Bài 10";
+			path = "Bài 10";
+			sourceTree = "<group>";
+		};
+		84AA7BA125B5188C00C5F2C2 /* Struc - Class - Array */ = {
+			isa = PBXGroup;
+			children = (
+				84E8B79625B08023003E7D19 /* StrucAndClass.swift */,
+				84E8B79325B06597003E7D19 /* Array.swift */,
+			);
+			path = "Struc - Class - Array";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		84262A3225AF58AC000B39E8 /* iOS Basic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 84262A3A25AF58AC000B39E8 /* Build configuration list for PBXNativeTarget "iOS Basic" */;
+			buildPhases = (
+				84262A2F25AF58AC000B39E8 /* Sources */,
+				84262A3025AF58AC000B39E8 /* Frameworks */,
+				84262A3125AF58AC000B39E8 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "iOS Basic";
+			productName = "iOS Basic";
+			productReference = 84262A3325AF58AC000B39E8 /* iOS Basic */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		84262A2B25AF58AC000B39E8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1230;
+				LastUpgradeCheck = 1230;
+				TargetAttributes = {
+					84262A3225AF58AC000B39E8 = {
+						CreatedOnToolsVersion = 12.3;
+					};
+				};
+			};
+			buildConfigurationList = 84262A2E25AF58AC000B39E8 /* Build configuration list for PBXProject "iOS Basic" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 84262A2A25AF58AC000B39E8;
+			productRefGroup = 84262A3425AF58AC000B39E8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				84262A3225AF58AC000B39E8 /* iOS Basic */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		84262A2F25AF58AC000B39E8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				84E8B79725B08023003E7D19 /* StrucAndClass.swift in Sources */,
+				8407917B25B1B578002196EF /* Bài 8.swift in Sources */,
+				8407917525B18920002196EF /* Bài 6.swift in Sources */,
+				8431F04225B2C1FE00BE782C /* Nhập số sinh viên trong 1 lớp.swift in Sources */,
+				8431F04625B2FDD000BE782C /* Nhập tên lớp.swift in Sources */,
+				84E8B78425B0618F003E7D19 /* Bài 1.swift in Sources */,
+				84AA7BAD25B5562C00C5F2C2 /* Option.swift in Sources */,
+				8407917E25B1BE0C002196EF /* Bài 9.swift in Sources */,
+				8407917825B18AEE002196EF /* Bài 7.swift in Sources */,
+				84E8B78825B061DB003E7D19 /* Bài 2.swift in Sources */,
+				84E8B79425B06597003E7D19 /* Array.swift in Sources */,
+				84E8B78B25B06296003E7D19 /* Bài 3.swift in Sources */,
+				84262A3725AF58AC000B39E8 /* main.swift in Sources */,
+				84E8B79D25B0899F003E7D19 /* Sinh Vien.swift in Sources */,
+				84E8B7A425B08A00003E7D19 /* Lớp học.swift in Sources */,
+				8431F03F25B286BB00BE782C /* Nhập Thông Tin Sinh Viên.swift in Sources */,
+				84E8B79A25B08981003E7D19 /* Bài 10.swift in Sources */,
+				84E8B79125B062FD003E7D19 /* Bài 5.swift in Sources */,
+				84E8B78E25B062BE003E7D19 /* Bài 4.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		84262A3825AF58AC000B39E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		84262A3925AF58AC000B39E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		84262A3B25AF58AC000B39E8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		84262A3C25AF58AC000B39E8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		84262A2E25AF58AC000B39E8 /* Build configuration list for PBXProject "iOS Basic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84262A3825AF58AC000B39E8 /* Debug */,
+				84262A3925AF58AC000B39E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		84262A3A25AF58AC000B39E8 /* Build configuration list for PBXNativeTarget "iOS Basic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				84262A3B25AF58AC000B39E8 /* Debug */,
+				84262A3C25AF58AC000B39E8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 84262A2B25AF58AC000B39E8 /* Project object */;
+}
